@@ -11,17 +11,23 @@
     <link href="//fonts.googleapis.com/css?family=Noto+Sans:300,400,700" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic" rel="stylesheet" type="text/css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <link href="//jjmean2.github.io/server-study/themes/saga/assets/css/style.css?v=1475870473795" rel="stylesheet" type="text/css">
-    <link href="//jjmean2.github.io/server-study/themes/saga/assets/css/animate.min.css?v=1475870473795" rel="stylesheet" type="text/css">
+    <link href="//jjmean2.github.io/server-study/themes/saga/assets/css/style.css?v=1475870827777" rel="stylesheet" type="text/css">
+    <link href="//jjmean2.github.io/server-study/themes/saga/assets/css/animate.min.css?v=1475870827777" rel="stylesheet" type="text/css">
     <link href="https://jjmean2.github.io/server-study/favicon.ico" rel="shortcut icon">
     <link rel="canonical" href="https://jjmean2.github.io/server-study/2016-9-6.adoc" />
     <meta name="referrer" content="origin" />
     
     <meta property="og:type" content="website" />
     <meta property="og:title" content="스위프트 서버 스터디" />
+    <meta property="og:description" content="" />
     <meta property="og:url" content="https://jjmean2.github.io/server-study/2016-9-6.adoc" />
+    <meta property="article:tag" content="Swift" />
+    <meta property="article:tag" content=" Server" />
+    <meta property="article:tag" content=" Study" />
+    
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="스위프트 서버 스터디" />
+    <meta name="twitter:description" content="" />
     <meta name="twitter:url" content="https://jjmean2.github.io/server-study/2016-9-6.adoc" />
     
     <script type="application/ld+json">
@@ -31,8 +37,8 @@ null
     <meta name="generator" content="HubPress" />
     <link rel="alternate" type="application/rss+xml" title="" href="https://jjmean2.github.io/server-study/rss/" />
 </head>
-<body class="post-template">
-    <header id="header" class="animated fadeIn" style="background-image: url(song.jpg)">
+<body class="post-template tag-Swift tag-Server tag-Study">
+    <header id="header" class="animated fadeIn" style="background-image: url(blob/gh-pages/images/song.jpg)">
     <div class="header-background">
     <section class="blog-content">
         <a id="site-url" class="blog-title" href="https://jjmean2.github.io/server-study"></a>
@@ -47,15 +53,19 @@ null
     <section class="header-content">
         <h1 class="post-title animated fadeInUp">스위프트 서버 스터디</h1>
         <span class="post-data"><span class="date animated fadeInUp"><i class="fa fa-clock-o"></i> <time class="timesince date" data-timesince="1473087600" datetime="2016-09-06T00:00" title="06 September 2016">a month ago</time></span>
-            
+            <span class="tags animated fadeInUp"><i class="fa fa-tags"></i> <a href="https://jjmean2.github.io/server-study/tag/Swift/">Swift</a>, <a href="https://jjmean2.github.io/server-study/tag/Server/"> Server</a>, <a href="https://jjmean2.github.io/server-study/tag/Study/"> Study</a></span>
             <span class="author animated fadeInUp"><i class="fa fa-user"></i> <a href="https://jjmean2.github.io/server-study/author/jjmean2/">jjmean2</a></span></span>
     </section>
     </div>
 </header>
 <main id="main" class="content">
-    <article itemtype="http://schema.org/BlogPosting" class="animated fadeIn content post post">
+    <article itemtype="http://schema.org/BlogPosting" class="animated fadeIn content post post tag-Swift tag-Server tag-Study">
         <section class="post-content">
-            
+            <div class="imageblock">
+<div class="content">
+<img src="https://github.com/jjmean2/server-study/blob/master/images/song.jpg" alt="song.jpg">
+</div>
+</div>
         </section>
 
     </article>
@@ -84,7 +94,7 @@ null
 
         hljs.initHighlightingOnLoad();
       </script>
-    <script src="//jjmean2.github.io/server-study/themes/saga/assets/js/scripts.js?v=1475870473795"></script>
+    <script src="//jjmean2.github.io/server-study/themes/saga/assets/js/scripts.js?v=1475870827777"></script>
     
 </body>
 </html>
