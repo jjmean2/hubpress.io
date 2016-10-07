@@ -1,3 +1,6 @@
 = 스위프트 서버 스터디
-:hp-image: song.jpg
+:hp-image: blob/gh-pages/images/song.jpg
 :published_at: 2016-9-6
+:hp-tags: Swift, Server, Study
+
+image::https://github.com/jjmean2/server-study/blob/master/images/song.jpg[]
